@@ -29,26 +29,28 @@
 #
 ## Quotes generation(also based on [Stepik Samsung AI NLP course](https://github.com/Samsung-IT-Academy/stepik-dl-nlp))
 
-Examples: Here we can see that quotes generation using LSTM and symbolic models showing relatively good results. Primarily, we see that model have not learnt semantic analysis
-The early ones were something else is the post of the prool of the end.                  
-#                                                                
- >I'm a problem in an all the small from a blessing stuff, and I'll love the man who has an alled that because they do not expect the people are country in the mind of lives that are truth in the time to think that I want to have to talk the same things and some single process.  
+Examples: Here we can see that quotes generation using LSTM and symbolic models showing relatively good results. Primarily, we see that model have not learned semantic analysis. I should note that it is more appropriate to use symbolic model on languages that have intensive word generation(not English)
+               
+#    
+>The early ones were something else is the post of the prool of the end.  
+
+>I'm a problem in an all the small from a blessing stuff, and I'll love the man who has an alled that because they do not expect the people are country in the mind of lives that are truth in the time to think that I want to have to talk the same things and some single process.  
 
 >I have never really a sense that are a real and eventield that the ones that they get a book and the one should play the properity. The state is not going to be a big serve world and more to different words.  
 
 >We have like human  was an end, but even traveling steps and in a company some priver and president can trust the souther wrong and our own people when they should be a good company that we create the characters, and the way they are like the same time, don't live a lot of the steps of the sense of divine and hit the same than here was burned the whole eyes to know the universe story elections.  
 
- >The dead is the believer on the actors and women, but the truth and particular ways of student, and the most faith of the most service of the court them to think that life on the mind that has backed to the student than the soul that great security.  
+>The dead is the believer on the actors and women, but the truth and particular ways of student, and the most faith of the most service of the court them to think that life on the mind that has backed to the student than the soul that great security.  
 
- >I used to think the public children.  
+>I used to think the public children.  
 
- >We were all as a dad that people like how to go to the man.  
+>We were all as a dad that people like how to go to the man.  
 
- >I have always been won from other people.  
+>I have always been won from other people.  
 
- >I don't think you mean the problem of character.  
+>I don't think you mean the problem of character.  
 
- >I think about my narder, I think I had some experience of his promised surprising in a world of doing it more. 
+>I think about my narder, I think I had some experience of his promised surprising in a world of doing it more. 
 #
  ### Examples with same start:
 >Humanity is the post the enemy that you feel personally stream of the world of many of the fire of respection to make a school to the leaves and defend the education, and the people who seem to make the sound of having measured and person in a black to have the same things that we have to be involved with the newspation of selling someone who say them about anything that it can feel the characters of writing.  
