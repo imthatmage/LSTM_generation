@@ -1,4 +1,4 @@
-# Natural Language Processing LSTM Basic Generation Results On Russian Language
+# Natural Language Processing LSTM Basic Generation Results Using Symbolic Tokens
 
 ## Names Generation(based on [Stepik Samsung AI NLP course](https://github.com/Samsung-IT-Academy/stepik-dl-nlp))
 ### Examples:
